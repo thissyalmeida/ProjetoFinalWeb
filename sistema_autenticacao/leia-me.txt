@@ -1,0 +1,10 @@
+Esses arquivos são os códigos do artigo "Sistema de autenticação de usuários em PHP usando sessões e MySQL", por:
+
+Alfred Reinold Baudisch
+alfred@auriumsoft.com.br
+alfred@estacaonet.com
+
+www.auriumsoft.com.br
+www.linhadecodigo.com.br
+
+Caso não possua ou não tenha lido o artigo, envie-me um email que lhe enviarei o artigo!

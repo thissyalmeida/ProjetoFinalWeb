@@ -1,7 +1,7 @@
 <?php
 // Conexão com o banco de dados
-$conn = @mysql_connect("localhost", "root", "") or die ("Problemas na conexão.");
-$db = @mysql_select_db("chat", $conn) or die ("Problemas na conexão");
+$conn = @mysql_connect("localhost", "usuario", "senha") or die ("Problemas na conexão.");
+$db = @mysql_select_db("banco", $conn) or die ("Problemas na conexão");
 
 // Se o usuário clicou no botão cadastrar efetua as ações
 if ($_POST['cadastrar']) {
