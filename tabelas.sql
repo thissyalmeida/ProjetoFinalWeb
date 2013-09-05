@@ -12,5 +12,5 @@ CREATE TABLE Yoopielogin (
 	);
 
 /* Insere valores padroes */
-INSERT INTO smartlogin (nome,email,usuario,senha,acesso) VALUES ('Thissiany Beatriz Almeida','thissy.almeida@gmail.com','thissyAlmeida','123456','1');
+INSERT INTO Yoopielogin (nome,email,usuario,senha,acesso) VALUES ('Thissiany Beatriz Almeida','thissy.almeida@gmail.com','thissyAlmeida','123456','1');
 
